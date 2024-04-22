@@ -109,7 +109,7 @@ form{
     text-align: left;
 }
 
-input, select{
+input, select, label{
     display: block;
     margin-top: 10px;
 }
