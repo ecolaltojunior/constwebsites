@@ -118,7 +118,11 @@ input, select, label{
     display: block;
     margin-top: 10px;
 }
-
+video{
+    width: 60%;
+    height: auto;
+    align-self: center;
+}
 @media screen and (max-width: 640px){
     nav{
         justify-content: left;
