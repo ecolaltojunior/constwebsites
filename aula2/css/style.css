@@ -156,4 +156,17 @@ video{
         display: block; /*acrescentado*/
 
     }
+    video{
+        width: 90%;
+        height: auto;
+        align-self: center;
+    }
+    #topo img{
+        width: 60%;
+        height: auto;
+    }
+    #conteudo img{
+        width: 60%;
+        height: auto;
+    }
 }
