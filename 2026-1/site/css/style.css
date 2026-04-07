@@ -71,11 +71,23 @@ nav {
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
     font-size: 1em;
-    padding: 3%;
 }
+
+section{
+    padding: 2% 10%;
+}
+
+#imgindex{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
 #imgconteudo {
     width: 40%;
     height: auto;
+    
 }
 h1 {
     text-align: center;
